@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 想做设计的程序员
 <!--
 **ftcjs/ftcjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
